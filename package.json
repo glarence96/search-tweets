@@ -1,5 +1,5 @@
 {
-  "name": "search-tweets",
+  "name": "twitter-tweets",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
